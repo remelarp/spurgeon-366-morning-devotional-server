@@ -57,5 +57,5 @@ The JSON response consists of an array of objects:
 
 ## ✍️ Author
 
-**Mohammad Arif**
+**Remelar Panganiban**
 - [GitHub Profile](https://github.com/remelarp)
